@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR3a0129_001.yaml, hash: 'sha256:a6a9c224d13916087aa6c47ccca73aed85b5148d1e9012dd6a87daaa00a63073'}
+  - {seq: 1, filename: KR3a0129_001.yaml, hash: 'sha256:86030d66efa35665a6db3b7bd04bfcd5bc95425e1b09be00cc4b171ca69dabcf'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3a0129_001.markers.yaml, hash: 'sha256:976311f192c7cff3c147ff8489060ecb79a9a88d861c59e99823aa1873e7f207'}
+  - {seq: 1, role: markers, filename: assets/KR3a0129_001.markers.yaml, hash: 'sha256:abf044f2a0f6294899113299440c0eb22578fb3bafff26a8ed091b8679d64e0f'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,7 +31,4 @@ table_of_contents:
   label: 王子正論
   type: section
   level: 1
-hash: sha256:42c6b870c8425ca0d1c2896d771172eac71ee3bdb2bd96104d57f7d843f31ce8
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:e8853471c240f35662fc6fe5193a67860c9b3712a2dc24d35b8609e333950154
