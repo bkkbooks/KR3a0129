@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3a0129/v1
 canonical_location: https://kanripo.org/bkk/KR3a0129/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 王子正論一卷
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR3a0129_001.yaml, hash: 'sha256:86030d66efa35665a6db3b7bd04bfcd5bc95425e1b09be00cc4b171ca69dabcf'}
+  - {seq: 1, filename: KR3a0129_001.yaml, hash: 'sha256:660e9dd266b73264bed66f567bc5f177ddf1a86d8c02b1501f7efa9d93cc2d21'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3a0129_001.markers.yaml, hash: 'sha256:abf044f2a0f6294899113299440c0eb22578fb3bafff26a8ed091b8679d64e0f'}
+  - {seq: 1, role: markers, filename: assets/KR3a0129_001.markers.yaml, hash: 'sha256:12384349cbd3b11545e65d035c009df162ced42d096026a295a5b301bd7217ae'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,4 +31,7 @@ table_of_contents:
   label: 王子正論
   type: section
   level: 1
-hash: sha256:e8853471c240f35662fc6fe5193a67860c9b3712a2dc24d35b8609e333950154
+hash: sha256:56f0650c09e019024603efeb1137ba7633bd4c3601d5b6ded071c2a1f9944ec2
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
